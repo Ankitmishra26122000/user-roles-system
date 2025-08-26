@@ -28,3 +28,13 @@ Clone the repo:
 ```bash
 git clone https://github.com/Ankitmishra26122000/user-roles-system.git
 cd user-roles-system
+# Install dependencies
+npm install
+
+# Run frontend
+npm run dev
+
+# Run backend
+cd server
+npm run dev
+
